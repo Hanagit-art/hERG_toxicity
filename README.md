@@ -25,7 +25,7 @@ source of code: *https://www.kaggle.com/code/prashant111/decision-tree-classifie
 ## DNN
 https://deepnote.com/workspace/hana-svachova-e5fcfdb8-3686-46a9-a57a-2ff47776e57f/project/TheMama2022DNN4-9e73c609-5701-4d12-a1dd-e95ca51974b7/%2FGetting%20started.ipynb
 
-source of code: **https://github.com/ncats/herg-ml.git* 
+source of code: *https://github.com/ncats/herg-ml.git* 
 
 ### References
 Webel et al., 2020, Revealing cytotoxic substructures in molecules using deep learning, Journal of Computer-Aided Molecular Design volume 34, p 731–746 
