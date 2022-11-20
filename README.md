@@ -3,7 +3,7 @@ Machine learning models to predict hERG-related toxicity of molecules
 
 ## Dataset
 The description of the dataset can be found here:
-Siramshetty et al., 2020. Critical Assessment of Artificial Intelligence Methods for Prediction of hERG Channel Inhibition in the ‘Big Data’ Era.
+**Siramshetty et al., 2020. Critical Assessment of Artificial Intelligence Methods for Prediction of hERG Channel Inhibition in the ‘Big Data’ Era.**
 
 source of code: *https://github.com/ncats/herg-ml.git* 
 
